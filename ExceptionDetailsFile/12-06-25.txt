@@ -1,0 +1,240 @@
+-----------Exception Details on  12-06-2025 04:35:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 04:35:24
+
+Error Line No : line 19
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: https://localhost:44377/employer
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:07
+
+Error Line No : ine 237
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/CheckUsername/?username=Raja
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:07
+
+Error Line No : ine 237
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/CheckUsername/?username=Rajan
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:22-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:22
+
+Error Line No : ine 237
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/CheckUsername/?username=Rajani
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:35
+
+Error Line No : ine 237
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/CheckUsername/?username=Rajani
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:35
+
+Error Line No : ine 237
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/CheckUsername/?username=Rajani
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:38:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:38:54
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:39:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:39:00
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:41:57-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:41:57
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-06-2025 05:47:12-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-06-2025 05:47:12
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Login failed for user 'JobPortalUser'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

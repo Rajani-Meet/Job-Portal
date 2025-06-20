@@ -1,0 +1,475 @@
+-----------Exception Details on  13-06-2025 00:45:38-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 00:45:38
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 00:53:16-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 00:53:16
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:16:25-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:16:25
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:20:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:20:54
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:35:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:35:55
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:39:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:39:30
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:40:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:40:18
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:40:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:40:27
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 01:43:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 01:43:26
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:23:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:23:28
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:28:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:28:30
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:31:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:31:37
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:47:37-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:47:37
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:54:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:54:28
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 03:57:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 03:57:47
+
+Error Line No : line 76
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 04:00:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 04:00:05
+
+Error Line No : line 82
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 04:00:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 04:00:20
+
+Error Line No : line 82
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Invalid salt: salt cannot be null or empty
+Parameter name: salt
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 04:43:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 04:43:35
+
+Error Line No : ine 225
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__536C85E41C632589'. Cannot insert duplicate key in object 'dbo.Admin'. The duplicate key value is (admin).
+The statement has been terminated.
+
+ Error Page Url: https://localhost:44377/Admin/AddAdmin
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  13-06-2025 04:51:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 13-06-2025 04:51:39
+
+Error Line No : ine 225
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Violation of UNIQUE KEY constraint 'UQ__tmp_ms_x__536C85E41C632589'. Cannot insert duplicate key in object 'dbo.Admin'. The duplicate key value is (Admin).
+The statement has been terminated.
+
+ Error Page Url: https://localhost:44377/Admin/AddAdmin
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
